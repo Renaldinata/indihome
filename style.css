@@ -5,8 +5,11 @@
 }
 
 #paket {
-  padding-bottom: 100rem;
   background-color: #d1def0;
+}
+
+#addon {
+  background-color: #ffffff;
 }
 
 section {
